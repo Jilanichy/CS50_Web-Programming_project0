@@ -1,0 +1,40 @@
+.content-body {
+    background-color: #f1f2e6;
+    padding: 5px;
+}
+@media only screen and (max-width: 600px) {
+    .content-body  {
+        background-color: #47efde;
+    }
+}
+
+#title {
+    color: #15381b;
+}
+
+
+#second-title {
+    color: #07210b;
+}
+
+.items {
+    color: #070700;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

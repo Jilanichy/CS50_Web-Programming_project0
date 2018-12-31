@@ -1,0 +1,35 @@
+$mycolor: blue;
+
+.title1 {
+    color: $mycolor;
+}
+
+.title2 {
+    color: $mycolor;
+}
+
+
+
+h6 {
+    div {
+        ul {
+            li {
+                color: green;
+                }
+            }
+        }
+    }
+
+
+
+%inherit {
+    padding: 10px;
+    font-size: 1.1em;
+}
+
+.para1 {
+    @extend %inherit;
+}
+.para2 {
+    @extend %inherit;
+}
