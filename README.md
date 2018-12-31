@@ -4,6 +4,7 @@
 ### Provided by Harvard University (HarvardX)
 
 
+
 * This website contains four different HTML pages and facility to go from one page to another by internal linking using Bootstrap navbar, also taking advantage of Bootstrap components and grid model.
 
 * This website contains list, table and images by using HTML tags and attributes.
