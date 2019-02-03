@@ -13,3 +13,4 @@
 
 * SCSS stylesheet provides variable, nesting and inheritance features.
 
+* Quick Walkthrough - https://www.youtube.com/watch?v=n-Hyp_fsbYs
